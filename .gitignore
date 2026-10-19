@@ -1,0 +1,4 @@
+download_data
+.venv
+.lintr
+temperature_data.csv
